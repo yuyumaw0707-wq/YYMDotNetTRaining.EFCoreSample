@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="EfCoreCrudService.cs" />
+  </Folder>
+  <Project Path="YYMDoNet/YYMDoNet.csproj" />
+</Solution>
